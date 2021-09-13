@@ -1,0 +1,40 @@
+body{
+    font-family: cursive;
+    background-color: white;
+
+}
+.header_div{
+    background-color: thistle;
+    color: black;
+}
+.header_div p{
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+} 
+.footer{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+
+}
+#result_label{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+
+}
+#result_accuracy{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    
+}
